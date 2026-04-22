@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" width="240" height="48" role="img" aria-label="OpenGlitch">
+  <rect x="4" y="12" width="40" height="32" rx="16" fill="#ffffff"></rect>
+  <rect x="10" y="18" width="28" height="20" rx="10" fill="#000000"></rect>
+  <rect x="14" y="4" width="28" height="20" rx="10" fill="#ffffff" opacity="0.55"></rect>
+  <rect x="18" y="8" width="20" height="12" rx="6" fill="#000000"></rect>
+  <text x="56" y="37" font="300 28px &#39;Work Sans&#39;, Arial, sans-serif" fill="#ffffff" style="font:300 28px &#39;Work Sans&#39;,Arial,sans-serif;letter-spacing:-0.1px;">Open<tspan style="font-weight:600;fill:#53b1ff;">Glitch</tspan></text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" width="240" height="48" role="img" aria-label="OpenGlitch">
+  <defs>
+    
+  </defs>
+  
+  <g transform="translate(4,4)">
+    <rect class="og-mark" x="0" y="8" width="40" height="32" rx="16" fill="#0070cc"></rect>
+    <rect x="6" y="14" width="28" height="20" rx="10" fill="#fff"></rect>
+    <rect class="og-mark" x="10" y="0" width="28" height="20" rx="10" fill="#0070cc" opacity="0.55"></rect>
+    <rect x="14" y="4" width="20" height="12" rx="6" fill="#fff"></rect>
+  </g>
+  <text class="og-word" x="56" y="33">Open<tspan class="og-word-accent">Glitch</tspan></text>
+</svg>
